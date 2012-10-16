@@ -1,0 +1,284 @@
+ /*
+Bernice Johnson
+Project 1
+MIU 12/08
+*/
+
+html{
+   background-color: white;
+	
+}
+header{
+	text-align: center;
+	background-color:#550d55;
+	/*margin-bottom: 5px; */
+	padding-top: 1px; 
+	padding-bottom: 1px;
+	width: 436px;
+	height: 15;
+}
+ h1#id{
+	color:white;
+	font-family: Arial, sans-serif;
+}
+
+a#displayLink{
+	text-align: center;
+	color: #4b4b4b;
+}
+a#clear{
+	text-align: center;
+	color: #4b4b4b;
+}
+
+p{  
+	font-family: Arial,  sans-serif;
+	font-weight: bold;
+	text-align: center;
+	font-size: 14;
+	color: white;
+	
+	
+}
+
+p{  
+	font-family: Arial,  sans-serif;
+	font-weight: bold;
+	text-align: center;
+	font-size: 14;
+	color: white;
+	margin-left: 
+}
+div#feature1{
+
+
+}
+form{
+	background-color: #550d55;
+	width: 436px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	margin-right: 10px;
+}
+
+input#search{
+	width: 195px;
+	height: 25px;
+	margin-left: 90px;
+}
+div#browse{
+	text-align: left;
+	margin-left: 5px;
+	font-size: 20px;
+	font-family: Arial,  sans-serif;
+	padding-top: 8px;
+	background-color: white;
+}
+
+h1 {
+    margin: 4px;
+ 
+    color: white;
+    font:  arial, sans-serif;
+   
+    text-align: center; 
+    background-color: transparent;
+}
+
+body {
+	background-color: transparent;
+}
+
+div#FirstMet{
+      text-align: left;
+      color: black;
+      font-size: 18px;
+}
+a#FirstMet{
+    text-align: left;
+    font-size: 18px;
+}
+
+form{
+	text-align:left
+	/*color:whilte;*/
+}
+
+
+
+h2{
+	font-family: Arial, sans-serif;
+	text-align:center;
+	color: #3c2e2b;
+	
+	
+
+}
+
+
+fieldset{
+	border: solid #3c2e2b;
+	border-width: .1em;
+	/*font color: #3c2e2b;*/
+	margin-top: 25px;
+	margin-bottom: 10px;
+	/*margin-left: 10px;*/
+	/*margin-right: 20px;*/
+	/*padding:lem;*/
+	/*font:80%/1 sans-serif;
+	
+	border color: #3c2e2b;
+	/*margin: 20px; */
+	background-color: white;
+}
+
+
+	
+/*select#events{
+	background-color:  #a42661;
+
+} */
+	
+
+
+
+
+
+
+legend{
+	font-family: Arial,  sans-serif;
+	font-weight: bold;
+    color: black;
+    font-size: 17px
+   
+}
+
+label{
+	display: block;
+	/*float: left;  */
+	font-family: ariel, sans-serif;
+    color: #4b4b4b; 
+   
+    /*text-align:left;
+    font-weight: bold;*/
+    /*width:75px; */
+    margin-right:0.5em;
+    padding-top:0.2em;
+    /*text-align:right; */
+    /*font-weight: bold; */
+    
+}
+/*ul{
+	font-family: Arial,  sans-serif;
+	margin-bottom: 1px;
+	text-align: left;
+	font-weight: bold;
+	
+	}*/
+li#select{
+	padding-bottom: 10px;
+}
+
+
+
+li{
+	display: block;
+	font-family: Arial, sans-serif;
+    color: #3c2e2b;
+	/*text-align: center*/
+	padding-top:0.2em;
+	
+}
+
+
+ul.checkbox{
+   display: block;
+   padding-bottom: 0px;
+   padding-top: 4px;
+   margin-left: 0px;
+
+}
+
+ul.checkbox label{
+	display: inline;
+	text-align: left;
+
+}
+
+input.dating {
+	
+}
+/*ulinput {
+	display: block;
+
+
+
+	margin-left: 3px;
+	margin-bottom: 8px;
+	padding bottom: 10px;
+	
+}
+/*ulul.class{
+	display: block;
+
+}*/
+#errors li{
+
+font-weight:  bold;
+
+color:  red;
+}
+
+input#range{
+	padding-top: 5px;
+	padding-bottom: 10px;
+}
+
+input#submit{
+	margin-left: 1px;
+}
+
+nav{
+	
+	text-align: center;
+	font-family: Arial,  sans-serif;
+}
+
+input#A couple li {
+	padding-bottom: 8px;
+	
+}
+
+
+ul#questions li{
+	padding-bottom: 3px;
+
+}
+
+input#A couple li{
+	
+}
+
+a{
+ color:#4b4b4b;
+ font-family: Arial,  sans-serif;
+ /*margin-left: 21px; */
+ text-align: left;
+ display: block;
+ margin: 5px;
+ 
+}
+div#items li{
+	text-align: justify;
+}
+
+div#items ul{
+	background-color: white;
+}
+
+div#items a 
+     color: #0d8f4a; 
+    display: block;
+    text-align: justify;
+}
+
