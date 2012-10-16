@@ -1,7 +1,7 @@
 Bernice Johnson
-MIU bronze app
-October 8, 2012
+MIU bronze app week 4
+October 15, 2012
 
  My Git links :
 
-https://github.com/bjohnson6/miu3bronzeapp.git
+https://github.com/bjohnson6/miubronze3.git
